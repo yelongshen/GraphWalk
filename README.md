@@ -1,3 +1,3 @@
 # GraphWalk
 
-Learning to Walk over Graphs
+Learning to Walk over Graphs in Monte Carlo Tree Search
